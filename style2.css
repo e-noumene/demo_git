@@ -1,0 +1,21 @@
+div
+
+{
+
+    width: 200px;
+
+    height: 150px;
+
+    background-color: blue;
+    transition-property: background-color;
+    transition-duration: 1s;
+}
+
+
+div:hover
+
+{
+
+    background-color: green;
+
+}
